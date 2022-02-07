@@ -1,4 +1,4 @@
-{
+{{
 	"remote_control":true,
 	"github_token":"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",
 	"github_username":"LLEOPE",
@@ -9,11 +9,6 @@
 	"bot_playing":["HoursBoost DM UglumAM#0069 DS",730,570,440,331470,282660,238090,479130,227940,271590],
 	"persona":"1",
 	"users":[
-		{"user":"sarkartanmoy_d","password":"miamoramy1","shared_secret":"","key":"","games":[570,440,730],"persona":1,"logged":true},
-                {"user":"hvu07988","password":"Tomas,blanc.1","shared_secret":"","key":"","games":[570,440,730],"persona":1,"logged":true},
-                {"user":"piotr_kozlowski","password":"taylor2020","shared_secret":"9PyrST39MMmKy8zx8qtdJqo2doA=","key":"","games":[570,440,730],"persona":1,"logged":true},
-                {"user":"angelloquito123","password":"remigio1998.","shared_secret":"","key":"","games":[714010,291550,273110,730,570,205790,237310,479130,439700,1173350,550,1218740,1128810,1662740,433850],"persona":1,"logged":true},
-                {"user":"soapmctavish15","password":"GDri2PEX","shared_secret":"","key":"GCW/QyfRKBkZR5xSxaU","games":[349700,290140,630,13140,336510,316390,304030,412940,224600,209870,403690,273110,730,222900,28050,333930,570,205790,223650,380600,265630,385880,242720,319150,227940,342570,345520,424280,389430,550,202090,226320,43110,356640,336520,287920,244630,224260,200110,218230,1083500,236830,39120,258160,35450,386360,858460,1840,3970409900,390670,51100,440,272350,10500,34030,34330,17080,291210,107900,42160,236390,298240,291480,391460],"persona":1,"logged":true}
+		{"user":"soapmctavish15","password":"GDri2PEX","shared_secret":"","key":"","games":[570,440,730,630],"persona":1,"logged":true}
 	]
 }
-
